@@ -1,0 +1,56 @@
+.oa-logo{
+    /*margin-right:50px;*/
+}
+.studly-options{
+    background-image: url("../img/typer.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.oa-center{
+    padding-top: 10%;
+    text-align: center;
+}
+.oa-center h1{
+    color: white;
+    font-size: 40px;
+    font-weight: bold;
+}
+
+input[type='range']{
+    margin: 0px;
+    padding: 0px;
+}
+div.range label{
+    margin: 0px;
+    padding: 0px 0px 18px;
+}
+
+.rangeslider--horizontal {
+    height: 15px;
+    width: 100% !important;
+}
+div.range{
+    width: 70% !important;
+}
+.rangeslider__fill {
+    background: #c69500;
+    position: absolute;
+}
+
+.rangeslider__handle {
+    width: 20px !important;
+    height: 20px !important;
+}
+
+div.range-output{
+    text-align: center;
+    font-weight: bold;
+    padding-top: 5px;
+}
+.ranger{
+    height: 13px;
+    margin-top: 10px;
+}
+.ranger-title{
+    margin-bottom: 25px;
+}
